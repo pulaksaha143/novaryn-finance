@@ -1,0 +1,38 @@
+Date,Description,Amount,Type
+2025-05-01,DEPOSIT Paycheck Monthly,5500.00,Credit
+2025-05-02,KROGER Groceries Weekly Run,125.50,Debit
+2025-05-03,NETFLIX Subscription Fee,18.99,Debit
+2025-05-05,STARBUCKS Morning Coffee,5.25,Debit
+2025-05-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-05-18,SHELL Gas Fill Up,45.70,Debit
+2025-05-25,AMAZON ORDER #1234,88.40,Debit
+2025-06-01,DEPOSIT Paycheck Monthly,5750.00,Credit
+2025-06-03,KROGER Groceries Weekly Run,132.80,Debit
+2025-06-05,STARBUCKS Morning Coffee,6.00,Debit
+2025-06-10,SIP Monthly Investment,200.00,Debit
+2025-06-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-06-22,GYM FEE Monthly Membership,49.99,Debit
+2025-07-01,DEPOSIT Paycheck Monthly,5600.00,Credit
+2025-07-04,KROGER Groceries Weekly Run,110.15,Debit
+2025-07-06,STARBUCKS Weekend Treat,10.50,Debit
+2025-07-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-07-20,AMAZON ORDER #5678,145.60,Debit
+2025-08-01,DEPOSIT Paycheck Monthly,5800.00,Credit
+2025-08-07,KROGER Groceries Weekly Run,128.95,Debit
+2025-08-10,SIP Monthly Investment,200.00,Debit
+2025-08-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-08-25,NETFLIX Subscription Renewal,18.99,Debit
+2025-09-01,DEPOSIT Paycheck Monthly,5700.00,Credit
+2025-09-02,SHELL Gas Fill Up,50.10,Debit
+2025-09-05,STARBUCKS Morning Coffee,5.25,Debit
+2025-09-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-09-28,DOCTOR Visit Co-pay,75.00,Debit
+2025-10-01,DEPOSIT Paycheck Monthly,5900.00,Credit
+2025-10-03,KROGER Groceries Weekly Run,130.40,Debit
+2025-10-10,SIP Monthly Investment,200.00,Debit
+2025-10-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-10-20,UBER Rideshare Expense,22.50,Debit
+2025-11-01,DEPOSIT Paycheck Monthly,6000.00,Credit
+2025-11-05,KROGER Groceries Weekly Run,120.00,Debit
+2025-11-15,TRANSFER Monthly Rent Payment,1500.00,Debit
+2025-11-20,FINMATE Donation,10.00,Debit

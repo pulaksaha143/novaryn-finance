@@ -1,0 +1,25 @@
+Date,Description,Amount,Type
+2024-10-01,Opening Balance,5500.00,Balance
+2024-10-02,Transfer to Savings,3000.00,Debit
+2024-10-03,Client Payout - Web Design Project,22500.00,Credit
+2024-10-04,Fuel Station - Petrol,1250.00,Debit
+2024-10-05,Monthly Phone Bill Payment,699.00,Debit
+2024-10-06,Grocery Store,1850.00,Debit
+2024-10-08,ATM Withdrawal,2000.00,Debit
+2024-10-10,Gig Platform Fee - October,450.00,Debit
+2024-10-11,Client Payout - Content Writing Batch,15000.00,Credit
+2024-10-12,Internet Service Provider,999.00,Debit
+2024-10-14,Toll Road Payment,85.00,Debit
+2024-10-15,Subscription Service - Software Tool,499.00,Debit
+2024-10-16,Grocery Store,1120.00,Debit
+2024-10-18,Client Payout - Social Media Management,9800.00,Credit
+2024-10-19,Laptop Maintenance & Repair,3500.00,Debit
+2024-10-21,Fuel Station - Petrol,1100.00,Debit
+2024-10-23,Client Payout - Emergency Editing Job,4500.00,Credit
+2024-10-24,Transfer to Credit Card Payment,5000.00,Debit
+2024-10-25,Toll Road Payment,85.00,Debit
+2024-10-26,Gym Membership,1200.00,Debit
+2024-10-28,Grocery Store,950.00,Debit
+2024-10-29,Client Payout - Final Deliverable,18000.00,Credit
+2024-10-30,Electricity Bill Payment,1550.00,Debit
+2024-10-31,Closing Balance,57512.00,Balance
